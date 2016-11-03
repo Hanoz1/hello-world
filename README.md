@@ -1,2 +1,3 @@
 # hello-world
-hello word program
+Hanoz
+hello world program
